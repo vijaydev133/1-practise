@@ -1,0 +1,160 @@
+body {
+}
+
+.centre {
+  width: 663px;
+  margin: 0 auto;
+}
+
+.top {
+  width: 100vw;
+  height: 175px;
+  background-color: #101f26;
+  color: white;
+  box-sizing: border-box;
+}
+
+.top-centre {
+  padding-top: 57px;
+}
+
+.top-centre h1 {
+  font-size: 28px;
+  font-family: "Noto Sans", sans-serif;
+  margin-bottom: 4px;
+  color: #d9433d;
+}
+
+.top-centre h3 {
+  font-size: 14px;
+  font-family: "Roboto", sans-serif;
+  margin-top: 8px;
+}
+
+.top-centre p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 11px;
+  margin-top: 14px;
+  line-height: 17px;
+}
+
+nav {
+  width: 100vw;
+  background-color: #d64339;
+  text-align: center;
+  line-height: 38px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff5ed;
+  font-size: 12px;
+  font-family: "Radio Canada", sans-serif;
+  padding-left: 18px;
+}
+
+nav i {
+  color: #fff5ed;
+  font-size: 11px;
+  padding-right: 10px;
+}
+
+.bottom .centre {
+  width: 645px;
+  margin: 30px auto;
+}
+
+.bottom h2 {
+  
+  font-size: 15px;
+  margin-bottom: 21px;
+}
+
+.bottom h2,
+.bottom h3 {
+  color: #d64339;
+  font-family: "Noto Sans", sans-serif;
+}
+
+.key-skills span {
+  display: inline-block;
+  background-color: #101f26;
+  font-family: "Noto Sans", sans-serif;
+  color: #e7edef;
+  font-size: 10px;
+  padding: 7px 9px;
+  margin: 5px;
+  border-radius: 4px;
+}
+
+.tech-skills span {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 11px;
+}
+
+.tech-skills p {
+  display: inline-block;
+  font-size: 11px;
+  font-family: 'Lato', sans-serif;
+  
+}
+
+.prof-exp{
+    margin-top: 35px;
+}
+
+.prof-exp h3{
+    font-size: 13px;
+    display: inline-block;
+    margin-bottom: 11px;
+}
+
+.prof-exp .sp1,
+.prof-exp .sp2{
+    font-family: "Lato", sans-serif;
+    font-size: 13px;
+}
+
+.prof-exp .sp1{
+    margin-left: 408px;
+}
+
+.prof-exp .sp2{
+    margin-left: 336px;
+}
+
+.prof-exp ul li{
+    font-family: 'Lato', sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+  font-style: italic;
+  margin-left: 15px;
+}
+
+.prof-exp .down{
+    margin-top: 21px;
+}
+
+.edu{
+    margin-bottom: 20px;
+}
+.edu h3{
+    display: inline-block;
+    font-size: 13px;
+}
+
+.edu span{
+    font-family: "Lato", sans-serif;
+    font-size: 13px;
+    margin-left: 492px;
+}
+
+.key-skills h2{
+    
+}
+.key-skills h2:before{
+     content: ' ';
+     
+     color: #d64339;
+    
+}
