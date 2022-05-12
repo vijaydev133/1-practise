@@ -1,6 +1,3 @@
-body {
-}
-
 .centre {
   width: 663px;
   margin: 0 auto;
@@ -107,6 +104,28 @@ nav i {
   display: inline-block;
   font-size: 11px;
   font-family: "Lato", sans-serif;
+}
+
+.key-skills .line-1,
+.line-2 {
+  margin-left: 10px;
+}
+
+.key-skills .line-1 span,
+.key-skills .line-2 span {
+  margin-right: 20px;
+}
+
+.key-skills .line-1 .box-3 {
+  margin-left: 30px;
+}
+
+.key-skills .line-1 .box-4 {
+  margin-left: 10px;
+}
+
+.key-skills .line-2 .box-1 {
+  margin-left: 10px;
 }
 
 .prof-exp {
